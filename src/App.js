@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Todos from "./components/Todos";
 import Header from "./components/layout/Header";
-import "./styles.css";
+// import "./styles.css";
 import AddTodo from "./components/AddTodo";
 // import uuid from "uuid";
 import axios from "axios";
